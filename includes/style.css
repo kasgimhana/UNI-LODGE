@@ -1,0 +1,32 @@
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.h1-font {
+    font-family: 'Poppins', sans-serif;
+}
+
+.box {
+    border-top-color: green !important;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+.custom-alert {
+    position: fixed;
+    top: 50px;
+    right: 25px;
+    z-index: 1111;
+}
+
